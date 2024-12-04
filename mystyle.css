@@ -1,0 +1,17 @@
+
+body {
+    background-color: DarkBlue;
+    color: Azure;  
+    font-family: Arial, sans-serif; 
+}
+
+h1 {
+    color: Crimson;  
+    text-align: center;
+}
+
+
+p {
+    color: Azure; 
+    text-align: left; 
+}
